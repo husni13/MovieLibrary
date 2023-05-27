@@ -1,0 +1,348 @@
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects(MVC)\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects(MVC)\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\appsettings.json
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects(MVC)\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\MovieLibrary - API.exe
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects(MVC)\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\MovieLibrary - API.deps.json
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects(MVC)\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\MovieLibrary - API.runtimeconfig.json
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects(MVC)\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\MovieLibrary - API.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects(MVC)\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\MovieLibrary - API.pdb
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects(MVC)\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects(MVC)\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects(MVC)\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects(MVC)\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects(MVC)\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects(MVC)\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects(MVC)\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects(MVC)\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects(MVC)\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects(MVC)\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects(MVC)\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects(MVC)\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects(MVC)\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects(MVC)\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects(MVC)\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects(MVC)\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects(MVC)\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects(MVC)\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects(MVC)\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects(MVC)\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects(MVC)\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects(MVC)\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects(MVC)\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects(MVC)\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects(MVC)\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects(MVC)\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects(MVC)\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects(MVC)\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects(MVC)\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects(MVC)\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects(MVC)\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects(MVC)\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects(MVC)\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects(MVC)\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects(MVC)\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects(MVC)\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects(MVC)\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects(MVC)\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects(MVC)\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects(MVC)\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects(MVC)\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects(MVC)\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects(MVC)\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects(MVC)\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects(MVC)\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects(MVC)\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects(MVC)\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects(MVC)\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects(MVC)\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects(MVC)\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects(MVC)\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects(MVC)\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects(MVC)\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects(MVC)\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects(MVC)\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects(MVC)\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects(MVC)\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects(MVC)\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects(MVC)\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects(MVC)\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\obj\Debug\net6.0\MovieLibrary - API.csproj.AssemblyReference.cache
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects(MVC)\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\obj\Debug\net6.0\MovieLibrary - API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects(MVC)\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\obj\Debug\net6.0\MovieLibrary - API.AssemblyInfoInputs.cache
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects(MVC)\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\obj\Debug\net6.0\MovieLibrary - API.AssemblyInfo.cs
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects(MVC)\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\obj\Debug\net6.0\MovieLibrary - API.csproj.CoreCompileInputs.cache
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects(MVC)\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\obj\Debug\net6.0\MovieLibrary - API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects(MVC)\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\obj\Debug\net6.0\MovieLibrary - API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects(MVC)\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\obj\Debug\net6.0\staticwebassets\msbuild.MovieLibrary - API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects(MVC)\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\obj\Debug\net6.0\staticwebassets\msbuild.build.MovieLibrary - API.props
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects(MVC)\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MovieLibrary - API.props
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects(MVC)\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MovieLibrary - API.props
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects(MVC)\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects(MVC)\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects(MVC)\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects(MVC)\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\obj\Debug\net6.0\scopedcss\bundle\MovieLibrary - API.styles.css
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects(MVC)\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\obj\Debug\net6.0\MovieLibrary - API.csproj.CopyComplete
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects(MVC)\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\obj\Debug\net6.0\MovieLibrary - API.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects(MVC)\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\obj\Debug\net6.0\refint\MovieLibrary - API.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects(MVC)\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\obj\Debug\net6.0\MovieLibrary - API.pdb
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects(MVC)\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\obj\Debug\net6.0\MovieLibrary - API.genruntimeconfig.cache
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects(MVC)\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\obj\Debug\net6.0\ref\MovieLibrary - API.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\appsettings.json
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\MovieLibrary - API.exe
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\MovieLibrary - API.deps.json
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\MovieLibrary - API.runtimeconfig.json
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\MovieLibrary - API.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\MovieLibrary - API.pdb
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\obj\Debug\net6.0\MovieLibrary - API.csproj.AssemblyReference.cache
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\obj\Debug\net6.0\MovieLibrary - API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\obj\Debug\net6.0\MovieLibrary - API.AssemblyInfoInputs.cache
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\obj\Debug\net6.0\MovieLibrary - API.AssemblyInfo.cs
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\obj\Debug\net6.0\MovieLibrary - API.csproj.CoreCompileInputs.cache
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\obj\Debug\net6.0\MovieLibrary - API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\obj\Debug\net6.0\MovieLibrary - API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\obj\Debug\net6.0\staticwebassets\msbuild.MovieLibrary - API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\obj\Debug\net6.0\staticwebassets\msbuild.build.MovieLibrary - API.props
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MovieLibrary - API.props
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MovieLibrary - API.props
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\obj\Debug\net6.0\scopedcss\bundle\MovieLibrary - API.styles.css
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\obj\Debug\net6.0\MovieLibrary - API.csproj.CopyComplete
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\obj\Debug\net6.0\MovieLibrary - API.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\obj\Debug\net6.0\refint\MovieLibrary - API.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\obj\Debug\net6.0\MovieLibrary - API.pdb
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\obj\Debug\net6.0\MovieLibrary - API.genruntimeconfig.cache
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Bakir - maturski\MovieLibrary - API\MovieLibrary - API\obj\Debug\net6.0\ref\MovieLibrary - API.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\MovieLibrary 1\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\MovieLibrary 1\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\appsettings.json
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\MovieLibrary 1\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\MovieLibrary - API.exe
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\MovieLibrary 1\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\MovieLibrary - API.deps.json
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\MovieLibrary 1\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\MovieLibrary - API.runtimeconfig.json
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\MovieLibrary 1\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\MovieLibrary - API.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\MovieLibrary 1\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\MovieLibrary - API.pdb
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\MovieLibrary 1\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\MovieLibrary 1\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\MovieLibrary 1\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\MovieLibrary 1\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\MovieLibrary 1\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\MovieLibrary 1\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\MovieLibrary 1\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\MovieLibrary 1\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\MovieLibrary 1\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\MovieLibrary 1\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\MovieLibrary 1\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\MovieLibrary 1\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\MovieLibrary 1\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\MovieLibrary 1\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\MovieLibrary 1\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\MovieLibrary 1\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\MovieLibrary 1\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\MovieLibrary 1\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\MovieLibrary 1\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\MovieLibrary 1\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\MovieLibrary 1\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\MovieLibrary 1\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\MovieLibrary 1\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\MovieLibrary 1\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\MovieLibrary 1\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\MovieLibrary 1\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\MovieLibrary 1\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\MovieLibrary 1\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\MovieLibrary 1\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\MovieLibrary 1\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\MovieLibrary 1\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\MovieLibrary 1\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\MovieLibrary 1\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\MovieLibrary 1\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\MovieLibrary 1\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\MovieLibrary 1\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\MovieLibrary 1\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\MovieLibrary 1\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\MovieLibrary 1\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\MovieLibrary 1\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\MovieLibrary 1\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\MovieLibrary 1\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\MovieLibrary 1\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\MovieLibrary 1\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\MovieLibrary 1\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\MovieLibrary 1\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\MovieLibrary 1\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\MovieLibrary 1\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\MovieLibrary 1\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\MovieLibrary 1\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\MovieLibrary 1\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\MovieLibrary 1\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\MovieLibrary 1\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\MovieLibrary 1\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\MovieLibrary 1\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\MovieLibrary 1\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\MovieLibrary 1\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\MovieLibrary 1\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\MovieLibrary 1\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\MovieLibrary 1\MovieLibrary - API\MovieLibrary - API\obj\Debug\net6.0\MovieLibrary - API.csproj.AssemblyReference.cache
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\MovieLibrary 1\MovieLibrary - API\MovieLibrary - API\obj\Debug\net6.0\MovieLibrary - API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\MovieLibrary 1\MovieLibrary - API\MovieLibrary - API\obj\Debug\net6.0\MovieLibrary - API.AssemblyInfoInputs.cache
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\MovieLibrary 1\MovieLibrary - API\MovieLibrary - API\obj\Debug\net6.0\MovieLibrary - API.AssemblyInfo.cs
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\MovieLibrary 1\MovieLibrary - API\MovieLibrary - API\obj\Debug\net6.0\MovieLibrary - API.csproj.CoreCompileInputs.cache
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\MovieLibrary 1\MovieLibrary - API\MovieLibrary - API\obj\Debug\net6.0\MovieLibrary - API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\MovieLibrary 1\MovieLibrary - API\MovieLibrary - API\obj\Debug\net6.0\MovieLibrary - API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\MovieLibrary 1\MovieLibrary - API\MovieLibrary - API\obj\Debug\net6.0\staticwebassets\msbuild.MovieLibrary - API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\MovieLibrary 1\MovieLibrary - API\MovieLibrary - API\obj\Debug\net6.0\staticwebassets\msbuild.build.MovieLibrary - API.props
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\MovieLibrary 1\MovieLibrary - API\MovieLibrary - API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MovieLibrary - API.props
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\MovieLibrary 1\MovieLibrary - API\MovieLibrary - API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MovieLibrary - API.props
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\MovieLibrary 1\MovieLibrary - API\MovieLibrary - API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\MovieLibrary 1\MovieLibrary - API\MovieLibrary - API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\MovieLibrary 1\MovieLibrary - API\MovieLibrary - API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\MovieLibrary 1\MovieLibrary - API\MovieLibrary - API\obj\Debug\net6.0\scopedcss\bundle\MovieLibrary - API.styles.css
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\MovieLibrary 1\MovieLibrary - API\MovieLibrary - API\obj\Debug\net6.0\MovieLibrary - API.csproj.CopyComplete
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\MovieLibrary 1\MovieLibrary - API\MovieLibrary - API\obj\Debug\net6.0\MovieLibrary - API.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\MovieLibrary 1\MovieLibrary - API\MovieLibrary - API\obj\Debug\net6.0\refint\MovieLibrary - API.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\MovieLibrary 1\MovieLibrary - API\MovieLibrary - API\obj\Debug\net6.0\MovieLibrary - API.pdb
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\MovieLibrary 1\MovieLibrary - API\MovieLibrary - API\obj\Debug\net6.0\MovieLibrary - API.genruntimeconfig.cache
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\MovieLibrary 1\MovieLibrary - API\MovieLibrary - API\obj\Debug\net6.0\ref\MovieLibrary - API.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Solutions\MovieLibrary\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Solutions\MovieLibrary\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\appsettings.json
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Solutions\MovieLibrary\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\MovieLibrary - API.exe
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Solutions\MovieLibrary\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\MovieLibrary - API.deps.json
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Solutions\MovieLibrary\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\MovieLibrary - API.runtimeconfig.json
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Solutions\MovieLibrary\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\MovieLibrary - API.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Solutions\MovieLibrary\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\MovieLibrary - API.pdb
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Solutions\MovieLibrary\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Solutions\MovieLibrary\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Solutions\MovieLibrary\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Solutions\MovieLibrary\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Solutions\MovieLibrary\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Solutions\MovieLibrary\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Solutions\MovieLibrary\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Solutions\MovieLibrary\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Solutions\MovieLibrary\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Solutions\MovieLibrary\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Solutions\MovieLibrary\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Solutions\MovieLibrary\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Solutions\MovieLibrary\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Solutions\MovieLibrary\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Solutions\MovieLibrary\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Solutions\MovieLibrary\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Solutions\MovieLibrary\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Solutions\MovieLibrary\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Solutions\MovieLibrary\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Solutions\MovieLibrary\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Solutions\MovieLibrary\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Solutions\MovieLibrary\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Solutions\MovieLibrary\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Solutions\MovieLibrary\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Solutions\MovieLibrary\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Solutions\MovieLibrary\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Solutions\MovieLibrary\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Solutions\MovieLibrary\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Solutions\MovieLibrary\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Solutions\MovieLibrary\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Solutions\MovieLibrary\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Solutions\MovieLibrary\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Solutions\MovieLibrary\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Solutions\MovieLibrary\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Solutions\MovieLibrary\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Solutions\MovieLibrary\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Solutions\MovieLibrary\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Solutions\MovieLibrary\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Solutions\MovieLibrary\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Solutions\MovieLibrary\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Solutions\MovieLibrary\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Solutions\MovieLibrary\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Solutions\MovieLibrary\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Solutions\MovieLibrary\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Solutions\MovieLibrary\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Solutions\MovieLibrary\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Solutions\MovieLibrary\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Solutions\MovieLibrary\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Solutions\MovieLibrary\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Solutions\MovieLibrary\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Solutions\MovieLibrary\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Solutions\MovieLibrary\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Solutions\MovieLibrary\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Solutions\MovieLibrary\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Solutions\MovieLibrary\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Solutions\MovieLibrary\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Solutions\MovieLibrary\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Solutions\MovieLibrary\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Solutions\MovieLibrary\MovieLibrary - API\MovieLibrary - API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Solutions\MovieLibrary\MovieLibrary - API\MovieLibrary - API\obj\Debug\net6.0\MovieLibrary - API.csproj.AssemblyReference.cache
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Solutions\MovieLibrary\MovieLibrary - API\MovieLibrary - API\obj\Debug\net6.0\MovieLibrary - API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Solutions\MovieLibrary\MovieLibrary - API\MovieLibrary - API\obj\Debug\net6.0\MovieLibrary - API.AssemblyInfoInputs.cache
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Solutions\MovieLibrary\MovieLibrary - API\MovieLibrary - API\obj\Debug\net6.0\MovieLibrary - API.AssemblyInfo.cs
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Solutions\MovieLibrary\MovieLibrary - API\MovieLibrary - API\obj\Debug\net6.0\MovieLibrary - API.csproj.CoreCompileInputs.cache
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Solutions\MovieLibrary\MovieLibrary - API\MovieLibrary - API\obj\Debug\net6.0\MovieLibrary - API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Solutions\MovieLibrary\MovieLibrary - API\MovieLibrary - API\obj\Debug\net6.0\MovieLibrary - API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Solutions\MovieLibrary\MovieLibrary - API\MovieLibrary - API\obj\Debug\net6.0\staticwebassets\msbuild.MovieLibrary - API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Solutions\MovieLibrary\MovieLibrary - API\MovieLibrary - API\obj\Debug\net6.0\staticwebassets\msbuild.build.MovieLibrary - API.props
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Solutions\MovieLibrary\MovieLibrary - API\MovieLibrary - API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MovieLibrary - API.props
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Solutions\MovieLibrary\MovieLibrary - API\MovieLibrary - API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MovieLibrary - API.props
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Solutions\MovieLibrary\MovieLibrary - API\MovieLibrary - API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Solutions\MovieLibrary\MovieLibrary - API\MovieLibrary - API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Solutions\MovieLibrary\MovieLibrary - API\MovieLibrary - API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Solutions\MovieLibrary\MovieLibrary - API\MovieLibrary - API\obj\Debug\net6.0\scopedcss\bundle\MovieLibrary - API.styles.css
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Solutions\MovieLibrary\MovieLibrary - API\MovieLibrary - API\obj\Debug\net6.0\MovieLibrary - API.csproj.CopyComplete
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Solutions\MovieLibrary\MovieLibrary - API\MovieLibrary - API\obj\Debug\net6.0\MovieLibrary - API.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Solutions\MovieLibrary\MovieLibrary - API\MovieLibrary - API\obj\Debug\net6.0\refint\MovieLibrary - API.dll
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Solutions\MovieLibrary\MovieLibrary - API\MovieLibrary - API\obj\Debug\net6.0\MovieLibrary - API.pdb
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Solutions\MovieLibrary\MovieLibrary - API\MovieLibrary - API\obj\Debug\net6.0\MovieLibrary - API.genruntimeconfig.cache
+C:\Users\Hamza\Desktop\Escaping\ASP.NET Core projects\Solutions\MovieLibrary\MovieLibrary - API\MovieLibrary - API\obj\Debug\net6.0\ref\MovieLibrary - API.dll
