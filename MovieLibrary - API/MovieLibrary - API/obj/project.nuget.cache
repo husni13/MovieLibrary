@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "611C6MzGz5d0aekCVmAYyqaeniQeLxE/g1F3mM/TPt2mJ3rVFIuZ0M299b+K40vNBg9Q2qKMtWu91A6KXzwBgg==",
+  "dgSpecHash": "Tx0GjL2tG1ijEJfZVdg+uVD+2OGgKnTQKmvs7GxsaRFBHyx5A0G9Clg/9l/gwu69Dfy1tEVZNswiuMgevbS7rA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Hamza\\Desktop\\Escaping\\ASP.NET Core projects\\Solutions\\MovieLibrary\\MovieLibrary - API\\MovieLibrary - API\\MovieLibrary - API.csproj",
+  "projectFilePath": "C:\\Users\\Hamza\\Desktop\\MovieLibrary\\MovieLibrary - API\\MovieLibrary - API\\MovieLibrary - API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Hamza\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Hamza\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

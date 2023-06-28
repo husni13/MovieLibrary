@@ -3728,11 +3728,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Hamza\\Desktop\\Escaping\\ASP.NET Core projects\\Solutions\\MovieLibrary\\MovieLibrary - API\\MovieLibrary - API\\MovieLibrary - API.csproj",
+      "projectUniqueName": "C:\\Users\\Hamza\\Desktop\\MovieLibrary\\MovieLibrary - API\\MovieLibrary - API\\MovieLibrary - API.csproj",
       "projectName": "MovieLibrary - API",
-      "projectPath": "C:\\Users\\Hamza\\Desktop\\Escaping\\ASP.NET Core projects\\Solutions\\MovieLibrary\\MovieLibrary - API\\MovieLibrary - API\\MovieLibrary - API.csproj",
+      "projectPath": "C:\\Users\\Hamza\\Desktop\\MovieLibrary\\MovieLibrary - API\\MovieLibrary - API\\MovieLibrary - API.csproj",
       "packagesPath": "C:\\Users\\Hamza\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Hamza\\Desktop\\Escaping\\ASP.NET Core projects\\Solutions\\MovieLibrary\\MovieLibrary - API\\MovieLibrary - API\\obj\\",
+      "outputPath": "C:\\Users\\Hamza\\Desktop\\MovieLibrary\\MovieLibrary - API\\MovieLibrary - API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
